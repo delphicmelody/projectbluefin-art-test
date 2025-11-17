@@ -1,6 +1,6 @@
-# Universal Blue Artwork Repository
+# Project Bluefin Artwork Repository
 
-This repository contains artwork assets for Project Bluefin.
+This repository contains artwork assets for Project Bluefin.s
 
 ## Repository Structure
 
