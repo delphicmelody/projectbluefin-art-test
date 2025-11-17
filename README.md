@@ -1,6 +1,6 @@
 # Project Bluefin Artwork Repository
 
-This repository contains artwork assets for Project Bluefin.s
+This repository contains artwork assets for Project Bluefin.
 
 ## Repository Structure
 
